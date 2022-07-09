@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @soojin0542
 - 🌱 I’m currently learning
-   c
-- 💞️ I’m looking to collaborate on ...
+   c, py
+- 💞️ I’m Korean
 - 📫 How to reach me 
    sophy.soojin@gmail.com
+   and
+   soojin0542@naver.com
 
 <!---
 soojin0542/soojin0542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
